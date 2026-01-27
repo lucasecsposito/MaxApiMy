@@ -1,0 +1,4 @@
+﻿{
+    "callback_id": "{CallbackId}",
+    "notification": "Успешно"
+}

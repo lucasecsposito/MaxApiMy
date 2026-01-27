@@ -1,0 +1,11 @@
+﻿{
+  "text": "Это сообщение с image",
+  "attachments": [
+    {
+      "type": "image",
+      "payload": {
+            "url": "https://wallpapershome.com/images/pages/pic_h/26295.jpg"
+      }
+    }
+  ]
+}

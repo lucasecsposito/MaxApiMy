@@ -1,0 +1,19 @@
+﻿{
+    "callback_id": "{CallbackId}",
+    "message":
+    {
+        "text": "Капча успешно пройдена3",
+        "attachments": [
+        {
+            "type": "image",
+            "payload":
+            {
+                "url": "https://icdn.lenta.ru/images/2026/01/16/17/20260116171428477/detail_6bfbd47133b25385fd7ba37e33a688ae.jpg"
+            }
+        }
+        ],
+        "notify": true,
+        "format": "markdown"
+    },
+    "notification": "Успешно"
+}
